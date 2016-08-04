@@ -38,3 +38,4 @@
   通过容器运行一个kettle应用后端服务服务，并绑定mysql和postgreSQL后端服务进行ETL，详见[通过kettle实现ETL服务](https://github.com/DataFoundry/kettle-service)  
 
 ## 机器学习
+Tensorflow是google研发的第二代人工智能学习系统。Tensor的英文有张量之意，意味着N维数组，flow就是流的意思，意味着基于数据流图的计算，tensorflow就是张量从图像的一端流动到到另一端的计算过程。Tensorflow是将复杂的数据结构传输至人工智能神经网中进行分析和处理的系统。它可以被用于语音识别或者图像处理等多项机器深度学习领域，它可以在小到一部智能手机，大到数千台数据中心服务器的各种设备上运行。同时，tensorflow是开源的，意味着任何人都可以使用.集群的搭建过程详见[https://github.com/DataFoundry/tensorflow-cluster.git]
